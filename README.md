@@ -1,9 +1,9 @@
-# Hi there, I'm Thomas Alexandre! 👋
+# Hi, I'm Thomas Alexandre! 👋
 
 ## 🧠 Student in the Bachelor of Science in Computer Science at Bishop's University 
-## I've done work in Computational Neuroscience & and studied in Quantum Computing
+## I've done work in Computational Neuroscience and studied in Quantum Computing
 
-I have a great passion for scientific discovery. My current research is in **neuroscience data analysis**.
+I have a big passion for scientific discovery. My current research is in **neuroscience data analysis**.
 
 ### 🔬 Current Research Focus
 
