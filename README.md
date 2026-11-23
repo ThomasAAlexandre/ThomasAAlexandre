@@ -1,6 +1,6 @@
 # Hi, I'm Thomas Alexandre! 👋
 
-## 🧠 Student in the Masters of Science in Computer Science at Université de Sherbrooke in the Sherbrooke Connectivity and Imaging Lab
+## 🧠 Student in the Masters of Science in Computer Science at the Université de Sherbrooke in the Sherbrooke Connectivity and Imaging Lab
 
 I have a big passion for scientific discovery. My current research is in **tractography**.
 
